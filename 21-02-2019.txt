@@ -1,0 +1,13 @@
+.exit or ctrl+c to quit 
+
+it will
+
+3. undefined because of hoisting, the var output will be above the console.log while the output itsel will be under
+
+4. undefined
+
+declared but not assigned give undefined
+not declared give referenceError
+
+strict Mode:
+gives warning

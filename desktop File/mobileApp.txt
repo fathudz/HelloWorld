@@ -1,0 +1,61 @@
+Section 1.
+How often do you use your mobile phone?
+
+What is your mobile phone?
+Are you consider security as a part of consideration when 
+buying a new phone?
+Are you aware of security on mobile phone?
+
+
+Section 2. Vulnerabilities
+Have you ever experienced any system fault (such as lagging,
+close automatically, bugs, errors)
+How sure are you about your mobile phone security?
+Have you ever experienced that you mobile apps unable to 
+manage the applications due to multitasks?
+How often do you connect your device into unknown network?
+
+Section 3. Authentication
+Do you use any authentication (password, fingerprint, etc)
+ for your mobile screen?
+Do you use authentication to protect your personal data?
+
+Section 4. Data protection and Privacy
+Are you aware that your mobile phone may keep your 
+personal records? (of your movement(GPS), browsing (history&cookies))
+Are you aware that every application installed may have
+different data protection policy?
+Are you always reading the terms and regulations regarding
+data protection policy before installing your application?
+Are you aware that mobile applications may use your privacy
+as their user for their own interest?
+Are you aware about data protection act 1998?
+
+
+Section 5. Attacks
+Are you using email through your mobile apps?
+Are you aware that email have vulnerability for your mobile phone?
+Are you always make sure the name of the sender of the email 
+exactly correct?
+Are you always make sure to not open unsolicited/unkown link?
+Do you use any antivirus software on your phone?
+Have you ever lend your phone to your friend/relatives without
+your surveillance?
+From this type of attacks, please select all that you know:
+-virus
+-threat
+-trojan
+-malware
+-worms
+-radio and wireless network attacks
+-relay attacks
+-ussd attacks
+counter attacks
+Control flow attacks
+Brute force
+DOS
+XSS
+Smudge
+Cold Boot
+SMS-based
+USB connection
